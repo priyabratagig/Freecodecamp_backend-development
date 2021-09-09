@@ -2,7 +2,6 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Priyabrata Chattaraj",
 	"description": "My webapp description",
-  "keywords": ["todo", "calender","student","management", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,5 +12,7 @@
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
-	}
+	},
+  "keywords": ["todo", "calender","student","management", "freecodecamp"],
+  "license": "MIT"
 }
