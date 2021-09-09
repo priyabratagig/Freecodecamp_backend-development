@@ -2,7 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Priyabrata Chattaraj",
 	"description": "My webapp description",
-  "keywords": ["todo", "calender","student","management"],
+  "keywords": ["todo", "calender","student","management", "freecodecamp"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
