@@ -1,7 +1,8 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Priyabrata Chattaraj",
-  "description": "My webapp description",
+	"description": "My webapp description",
+  "keywords": ["todo", "calender","student","management"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
