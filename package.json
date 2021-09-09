@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Priyabrata Chattaraj",
+  "description": "My webapp description",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
